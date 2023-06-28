@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "poolHelper"]
 	path = poolHelper
 	url = https://github.com/joao-mcarvalho/poolhelper
-	shallow = true
-	registered = true
