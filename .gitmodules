@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "poolABC"]
+	path = poolABC
+	url = https://github.com/joao-mcarvalho/poolabc
 [submodule "poolHelper"]
 	path = poolHelper
 	url = https://github.com/joao-mcarvalho/poolhelper
